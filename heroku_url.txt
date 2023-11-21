@@ -1,1 +1,1 @@
-https://sentimentbasedrecommendationsy.herokuapp.com/
+https://segment-recommendar-engine-41e5bf244b93.herokuapp.com/
